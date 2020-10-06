@@ -3,7 +3,7 @@
 This bot was created to ban bots joining massively Decentraland discord server.  
 You can use it on your own server to get rid of all the nasty bots.  
 
-Only the highest role in your server can use the bots, so likely the admin role.  
+Only the highest role in your server can use this bot, so likely the admin role.  
 I don't know what happen if there is no role beside the default one, so be caution.
 
 To use it, you need to create a bot in the developer portal and add it to your server: [https://discordjs.guide/preparations/setting-up-a-bot-application.html]()  
